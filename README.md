@@ -37,6 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-<a rel="me" href="https://social.bahamut.dev/@ln"></a>
+<a rel="me" href="https://social.bahamut.dev/@ln"/>
 
 ###
