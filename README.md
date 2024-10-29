@@ -1,4 +1,5 @@
 <h1 align="left">Hey 👋</h1>
+<a rel="me" href="https://social.bahamut.dev/@ln"></a>
 
 ###
 
@@ -37,6 +38,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-<a rel="me" href="https://social.bahamut.dev/@ln"></a>
 
 ###
